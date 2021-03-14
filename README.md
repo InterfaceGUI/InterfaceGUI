@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I'm currently learning Arduino IoT related.
-- 💬 Ask me about anything [here](https://github.com/InterfaceGUI/InterfaceGUI/discussions)
+- 🌱 I'm currently learning ESP32 and google assistant.
+- 💬 Ask me about anything **-->[here](https://github.com/InterfaceGUI/InterfaceGUI/discussions)<--**
 
 [![Youtube](https://img.shields.io/endpoint?color=red&label=%E9%98%BFWolf&url=https%3A%2F%2Fyoutube-channel-badge-eight.vercel.app%2Fapi%2Fsubscriber&style=for-the-badge)](https://www.youtube.com/channel/UCKGyjTqCR0xnH2JQhUS09vA)
 [![Facebook](https://img.shields.io/badge/YuMakers-Facebook?style=for-the-badge&logo=Facebook&color=blue&logoColor=white)](https://www.facebook.com/YuMakers)
