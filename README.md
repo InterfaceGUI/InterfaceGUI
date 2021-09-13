@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+- 🔭I'm currently trying to make a Discord MusicBot.
 - 🌱 I'm currently learning some unity for VRChat. 
 - 💬 Ask me about anything **-->[here](https://github.com/InterfaceGUI/InterfaceGUI/discussions)<--**
 
