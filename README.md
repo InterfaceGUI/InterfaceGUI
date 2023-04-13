@@ -1,7 +1,7 @@
 
 ## Hi, TechWolf here! 👋
 
-Hi, I'm TechWolf, a college student from Taiwan.
+Hi, I'm TechWolf, A random guy from Taiwan.
 
 
 
@@ -20,11 +20,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I'm currently learning some unity for Vseeface.
+- 🌱 I'm currently learning some random stuff.
 - 💬 Ask me about anything **-->[here](https://github.com/InterfaceGUI/InterfaceGUI/discussions)<--**
 
-[![Youtube](https://img.shields.io/endpoint?color=red&label=%E9%98%BFWolf&url=https%3A%2F%2Fyoutube-channel-badge-eight.vercel.app%2Fapi%2Fsubscriber&style=for-the-badge)](https://www.youtube.com/channel/UCKGyjTqCR0xnH2JQhUS09vA)
-[![Facebook](https://img.shields.io/badge/YuMakers-Facebook?style=for-the-badge&logo=Facebook&color=blue&logoColor=white)](https://www.facebook.com/YuMakers)
 
 ## GitHub Stats 📈
 
